@@ -9,8 +9,7 @@ Framework is a set of reusable programs that can simplify developer's work in th
 
 
 **Reusable Programs**  
-    &nbsp;&nbsp;&nbsp;A framework is not a language but it is created based on an existing language.
-    Every framework provides set of reusable programs  &nbsp;&nbsp;which are based on the underlying language.
+    &nbsp;&nbsp;&nbsp;A framework is not a language but it is created based on an existing language.Every framework provides set of reusable programs  &nbsp;&nbsp;which are based on the underlying language.
 
 
 
