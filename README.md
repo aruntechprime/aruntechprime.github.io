@@ -5,7 +5,13 @@ Framework is a set of reusable programs that can simplify developer's work in th
 >  - Reusable programs
 >  - Simplification
 >  - Scope of the framework
-  
-         
+
+**Reusable Programs**   
+     A framework is not a language but it is created based on an existing language
+
+
+
+
+
 
 
