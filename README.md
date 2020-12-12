@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## ArunTechPrime
 
 You can use the [editor on GitHub](https://github.com/aruntechprime/aruntechprime.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Framework
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Framework is a collection of reusable programs that can simplify developer's work in the given scope
 
 ```markdown
 Syntax highlighted code block
